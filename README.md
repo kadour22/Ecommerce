@@ -2,6 +2,7 @@ E-commerce API Project
 This E-commerce API project is a robust and scalable backend solution for managing an online store. Built with Django and Django REST Framework, this project provides a comprehensive set of features to handle various aspects of an e-commerce platform, including product management, customer management, cart functionality, and order processing.
 
 Key Features:
+
 🟢Modular Architecture: The project is organized into separate modules for products, customers, cart items, and orders, ensuring maintainability and scalability.
 
 🟢Secure Authentication: Utilizes Django's built-in authentication system to manage user accounts and secure endpoints.
