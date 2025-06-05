@@ -136,14 +136,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - GitHub: [@kadour22](https://github.com/kadour22)
 
----
 
-## 🌟 Show Your Support
-
-If you found this project helpful, feel free to ⭐️ star the repo and share it!
-
-```
-
----
-
-Let me know if you want to include a section for **Docker setup**, **Postman collection**, or **deployment instructions**!
