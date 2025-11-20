@@ -112,12 +112,32 @@ Use the superuser credentials created earlier.
 
 ```
 Ecommerce/
-├── core/               # Main Django app
-│   ├── models.py       # Product, Cart, Order models
-│   ├── serializers.py  # DRF serializers
-│   ├── views.py        # API views
-│   └── urls.py         # URL routing
-├── Ecommerce/          # Project settings
+├── Product/              
+│   ├── models.py      
+│   ├── serializers.py  
+│   ├── views.py        
+│   └── urls.py
+├── Cartitems/              
+│   ├── models.py      
+│   ├── serializers.py  
+│   ├── views.py        
+│   └── urls.py  
+├── Category/              
+│   ├── models.py      
+│   ├── serializers.py  
+│   ├── views.py        
+│   └── urls.py
+├── Customers/              
+│   ├── models.py      
+│   ├── serializers.py  
+│   ├── views.py        
+│   └── urls.py
+├── Order/              
+│   ├── models.py      
+│   ├── serializers.py  
+│   ├── views.py        
+│   └── urls.py             
+├── Ecommerce/          
 ├── manage.py
 └── requirements.txt
 ```
